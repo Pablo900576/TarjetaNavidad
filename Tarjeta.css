@@ -1,0 +1,16 @@
+body{
+background-image: url(https://img.freepik.com/vector-gratis/fondo-navidad-bokeh-copos-nieve_1393-207.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.Lista{
+border:5px solid black;
+border-radius: 5px;
+background-color: aqua;
+float: left;
+}
+.imagen_lista{
+border:5px solid black;
+border-radius: 5px;
+float: left;
+}
